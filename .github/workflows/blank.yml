@@ -1,0 +1,17 @@
+Name: c.
+ 
+ Do: [pay]
+ 
+ Jobs: facebook
+ Construction: facebook
+ 
+ Rune: ubuntu - more recent
+ 
+ Steps:
+ - USES: inspection procedures v1
+ Name: start one-line text program
+ Welcome to the world.
+ Name: start multiline text program
+ Running:Facebook
+ Echo add other building procedures,
+ An echo test, and publish your project.
